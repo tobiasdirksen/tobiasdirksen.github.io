@@ -66,6 +66,10 @@ author:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/tobiasdirksen"
 
+header:
+  image: /assets/images/header_data_resized.jpg
+  caption: "<a href="https://www.freepik.com/photos/cyber-pattern">Cyber pattern photo created by svstudioart - www.freepik.com</a>"
+  
 footer:
   links:
     - label: "GitHub"
